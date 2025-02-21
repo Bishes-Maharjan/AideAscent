@@ -25,6 +25,7 @@
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+DOTENV DATABASE_URL FOR PRISMA POSTGRES = "postgresql://postgres:123@localhost:5445/nest2?schema=public"
 
 ## Project setup
 
